@@ -1,0 +1,20 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 3: Sales
+
+Included Files:
+	sales.cpp
+	README
+
+Running Instructions:
+
+	In the directory containing the files sales.cpp, use the command "g++ -o <name_of_choice> sales.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>". 
+
+Notes and Assumptions: 
+	The first line of input will be of the form "n T", where n is the number of prices and T being the target price (following the constraints below), the second line of input is 'n' spaced integers that are distinct and satisfy: 0 <= p1 < ... < p2 <= 10^9.
+
+	- n must have a range of 2 <= n <= 250,000.
+	- T must have a range 0 <= T <= 2*10^9.

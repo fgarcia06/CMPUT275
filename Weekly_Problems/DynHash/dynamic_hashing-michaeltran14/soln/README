@@ -1,0 +1,38 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 4: Dynamic Array
+
+Included Files:
+	hash_table.h
+	linkedlist.h
+	dynarray.h
+	we4_test.cpp
+	README
+
+Running Instructions:
+
+	In the directory containing the files we4_test.cpp, hash_table.h, linkedlist.h, and we4_test.cpp, use the command "g++ -o <name_of_choice> we4_test.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>".  
+
+Notes and Assumptions: 
+	There are 6 following queries that can be used when the executable file has been executed:
+		
+		- I e
+			This command will insert a new element, an unsigned integer e, in the table. This will happen only if this element is not in the table.
+
+		- R e 
+			This command will insert an element, an unsigned integer e, from the table. We promise we will not test this command to remove something that is not in the table.
+
+		- Q e
+			This command will look up an unsigned integer e, in the table and retunr either "found" or "not found".
+
+		- B
+			This command will return the current size of the table, i.e., the number of buckets that constitute the table.
+
+		- S
+			This command will return the number of elements that are currently in the table.
+
+		- STOP
+			This command will terminate the execution of the driver.

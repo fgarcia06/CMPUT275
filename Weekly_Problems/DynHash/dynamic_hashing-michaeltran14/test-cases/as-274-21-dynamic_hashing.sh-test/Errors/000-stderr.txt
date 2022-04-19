@@ -1,0 +1,10 @@
+In file included from we4_test.cpp:3:
+hash_table.h: In instantiation of ‘DynamicArray<T> HashTable<T>::getItemsArray() const [with T = UIntWrapper]’:
+hash_table.h:139:31:   required from ‘bool HashTable<T>::insert(const T&) [with T = UIntWrapper]’
+we4_test.cpp:49:27:   required from here
+hash_table.h:193:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘const unsigned int’ [-Wsign-compare]
+  193 |   for (int i = 0; i < tableSize; i++) {
+      |                   ~~^~~~~~~~~~~
+
+Expected file "test-cases/as-274-21-dynamic_hashing.sh-test/Expected/000-stdout.txt" has no output file match
+Expected file "test-cases/as-274-21-dynamic_hashing.sh-test/Expected/000-stderr.txt" has no output file match

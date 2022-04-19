@@ -1,0 +1,35 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 3: Reference_Manager
+
+Included Files:
+	ref_manager.cpp
+	ref_manager.h
+	we3_test.cpp
+	README
+	Makefile
+
+Running Instructions:
+
+	In the directory containing the files ref_manager.cpp, ref_manager.h, we3_test.cpp, use the command "g++ -o <name_of_choice> ref_manager.cpp ref_manager.h we3_test.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>". 
+
+Notes and Assumptions: 
+	There are 5 following queries that can be used when the executable file has been executed:
+		
+		- c p n str
+			this query allocates memory for a new string, p and n are both integers (1 <= p <= 100), where p being the index of the pointer, and n being the length of string, str is the string being stored.
+
+		- s p1 p2 
+			causes pointer p1 to reference what is referenced to by p2
+
+		- q p
+			print the string that is referenced to by p, or NULL if p is not currently referencing a string
+
+		- q
+			causes garbage collection to start, any strings in the garbage array must be deallocated using delete
+
+		-e 
+			exit the program

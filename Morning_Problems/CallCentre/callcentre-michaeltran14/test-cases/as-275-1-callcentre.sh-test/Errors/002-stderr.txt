@@ -1,0 +1,9 @@
+callcentre.cpp: In function ‘int main()’:
+callcentre.cpp:15:14: error: ‘class std::vector<int>’ has no member named ‘push_front’
+   15 |         call.push_front(temp);
+      |              ^~~~~~~~~~
+chmod: cannot access 'callcentre': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Morning_Problems/CallCentre/callcentre-michaeltran14/soln/.build/build.sh: line 8: ./callcentre: No such file or directory
+
+Expected file "test-cases/as-275-1-callcentre.sh-test/Expected/002-stdout.txt" has no output file match
+Expected file "test-cases/as-275-1-callcentre.sh-test/Expected/002-stderr.txt" has no output file match

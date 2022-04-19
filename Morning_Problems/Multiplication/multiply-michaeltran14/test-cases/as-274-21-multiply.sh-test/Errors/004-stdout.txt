@@ -1,0 +1,21 @@
+multiply.cpp: In function ‘int main()’:
+multiply.cpp:47:13: error: ‘out’ was not declared in this scope
+   47 |             out[i + j + 1] = out[i + j + 1] + first[i] * second[j];
+      |             ^~~
+multiply.cpp:52:16: error: ‘out’ was not declared in this scope
+   52 |         while (out[k] > 9) {
+      |                ^~~
+multiply.cpp:61:17: error: ‘out’ was not declared in this scope
+   61 |         cout << out[i] << endl;
+      |                 ^~~
+multiply.cpp:63:17: error: ‘out’ was not declared in this scope
+   63 |         cout << out[i] << " ";
+      |                 ^~~
+multiply.cpp:35:34: warning: unused variable ‘product’ [-Wunused-variable]
+   35 |     int first[100], second[100], product[200];
+      |                                  ^~~~~~~
+chmod: cannot access 'multiply': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Morning_Problems/Multiplication/multiply-michaeltran14/soln/.build/build.sh: line 8: ./multiply: No such file or directory
+
+Expected file "test-cases/as-274-21-multiply.sh-test/Expected/004-stderr.txt" has no output file match
+Expected file "test-cases/as-274-21-multiply.sh-test/Expected/004-stdout.txt" has no output file match

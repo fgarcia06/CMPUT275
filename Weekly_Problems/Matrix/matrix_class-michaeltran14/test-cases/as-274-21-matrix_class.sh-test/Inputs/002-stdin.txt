@@ -1,0 +1,36 @@
+C M1 3 4 -i -1
+C M2 3 4 -a 2 2 2 2 2 2 2 2 2 2 2 2
+P M1
+P M2
+C M3 4 3 -c -i 3
+C M4 4 3 -c -a -3 -2 -1 0 -3 -2 -1 0 -3 -2 -1 0
+P M3
+P M4
+A M3 M4 op1
+P op1
+A M2 M1 op2
+P op2
+S M2 M1 op3
+P op3
+M M1 M3 op4
+P op4
+M M2 M4 op5
+P op5
+A op4 op5 op6
+P op6
+N M3 op7
+P op7
+T M4 op8
+P op8
+M M3 op8 op9
+P op9
+B M3 2 2
+BA M2 2 2 1
+P M2
+R M2 8 8 8 8 8 8 8 8 8 8 8 8
+P M2
+D M1 op10
+BA op10 2 3 88
+P op10
+P M1
+Q

@@ -1,0 +1,5 @@
+free(): double free detected in tcache 2
+/home/michaeltran14/CMPUT_275/C++/Weekly_Problems/Reference_Manager/reference_manager-michaeltran14/soln/.build/build.sh: line 9:  4750 Aborted                 ./$NAME
+
+Expected file "test-cases/as-275-3-ref_manager.sh-test/Expected/003-stdout.txt" has no output file match
+Expected file "test-cases/as-275-3-ref_manager.sh-test/Expected/003-stderr.txt" has no output file match

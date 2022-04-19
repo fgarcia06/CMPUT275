@@ -1,0 +1,20 @@
+Name: Michael Tran
+ID #: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Assignment #1: Twin Primes
+
+Included Files:
+	- twin_primes.cpp
+	- README
+
+Running Instructions:
+	In the directory containing the files twin_primes.cpp, use the command "g++ -o <name_of_choice> twin_primes.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>". 
+
+Notes and Assumptions:
+	There will only be a single query of the form "p n" or "t k", where either p or t are needed to inputted. 
+
+	- n must have a range of 0 <= n <= 100,000.
+	- k must have a range of 1 <= k <= 1,000. 
+	

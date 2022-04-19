@@ -1,0 +1,30 @@
+C M1 2 10 -i 1.1
+C M2 2 10 -i 2.0
+P M1
+P M2
+C M3 10 2 -c -i 3.0
+C M4 2 2 -a 2 3 4 5
+P M3
+P M4
+S M1 M2 op1
+P op1
+A M1 M2 op2
+P op2
+M M2 M3 op3
+P op3
+A op3 M4 op4
+P op4
+N M4 op5
+P op5
+T M3 op6
+P op6
+BA M2 1 1 9
+P M2
+B M3 1 1
+R M4 7 8 9 0
+P M4
+D M1 op7
+BA op7 0 9 22
+P op7
+P M1
+Q

@@ -1,0 +1,10 @@
+makefile_dependencies.cpp: In function ‘void build(std::string, std::string, std::unordered_map<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >&, std::unordered_map<std::__cxx11::basic_string<char>, int>&)’:
+makefile_dependencies.cpp:38:26: error: invalid conversion from ‘const char*’ to ‘std::unordered_map<std::__cxx11::basic_string<char>, int>::mapped_type’ {aka ‘int’} [-fpermissive]
+   38 |  constructed[c_target] = "built"; //integer value 1 indicates that it has been constructed
+      |                          ^~~~~~~
+      |                          |
+      |                          const char*
+chmod: cannot access 'makefile_dependencies': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Weekly_Problems/Makefile/makefile_dependencies-michaeltran14/soln/.build/build.sh: line 8: ./makefile_dependencies: No such file or directory
+
+Expected file "test-cases/as-274-21-makefile_dependencies.sh-test/Expected/000-stdout.txt" has no output file match

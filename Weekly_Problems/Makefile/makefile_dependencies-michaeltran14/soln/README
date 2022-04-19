@@ -1,0 +1,33 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise #7: Makefile Dependencies
+
+Included Files:
+	makefile_dependencies.cpp
+	README
+
+Running Instructions: 
+	In the directory containing included files highlighted above, run the command "g++ -o <name_of_choice> makefile_dependencies.cpp" to compile and link the cpp file to make an executable.
+	Afterwards, run "./<name_of_choice>" to execute the executable. 
+
+Notes and Assumptions: 
+	The following assumptions are made about the inputs given.
+	- The first line of input will contain two integers (n and m) ranging from 1 to 20,000. The next 'n' lines must have a value of k which is >= 1. 
+
+	- The total number of all dependencies of all targets is at most 200,000.
+
+	- All file names consist of: Letters, digits, and the period (.) symbol.
+		Furthermore, no spaces will be in the name, and the names will have at most 12 characters.
+
+	- If a file name is listed twice, it is the same file.
+	
+	- No file will be listed as a target more than once.
+	
+	- Target name in each make command will be an actualy target listed among the n Makefile targets.
+	
+	- No file will be named 'make'.
+
+	- None of the targets were already built before the first 'make' command.

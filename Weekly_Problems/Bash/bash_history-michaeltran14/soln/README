@@ -1,0 +1,30 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 6: Bash History
+
+Included Files:
+	bash_history.cpp
+	README
+	
+Running Instructions:
+	In the directory containing the file bash_history.cpp, use the command "g++ -o <name_of_choice> bash_history.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>" to run the executable.  
+
+Notes and Assumptions: 
+	The first line of input will be an integer [1, 100,000] indicated the number of commands. Next n lines will contain one of these outlined commands:
+
+		- cd <directoryname>
+		- cd ..
+		- ls <filename>
+
+	Every file or directory name appearing on a line in the input will consist of between 1 and 10 characters.
+	All Characters in a file or directory name will be a letter (either uppercase or lowercase) or a digit.
+	The command cd .. will not appear when currently at the root directory.
+
+
+
+
+
+

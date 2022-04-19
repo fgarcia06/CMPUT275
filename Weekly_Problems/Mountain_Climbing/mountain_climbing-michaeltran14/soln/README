@@ -1,0 +1,20 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise #7: Mountain Climbing
+
+Included Files:
+	climbing.cpp
+	README
+	Makefile
+
+Running Instructions: 
+	In the directory containing included files highlighted above, either run the command "g++ -o <name_of_choice> climbing.cpp" to compile and link the cpp file to make an executable or run "make" (which will compile and link to a executable named we7_solution).
+	Afterwards, run "./<name_of_choice>" to execute the executable. 
+
+Notes and Assumptions: 
+	The input will contain two lines: the first contains three space-separated positive integers - length, rest, and limit. The second containes length spaced-separated postiive integers, representing the heights of ledges in array heights. It is assumed that that the second line will be typed in ascending order.
+
+	All input values must be unsigned integers.

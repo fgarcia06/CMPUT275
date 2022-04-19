@@ -1,0 +1,8 @@
+g++: error: matrix.o: No such file or directory
+g++: fatal error: input file ‘we5_test.o’ is the same as output file
+compilation terminated.
+make[1]: *** [Makefile:10: we5_solution] Error 1
+chmod: cannot access 'we5_solution': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Weekly_Problems/Matrix/matrix_class-michaeltran14/soln/.build/build.sh: line 9: ./we5_solution: No such file or directory
+
+Expected file "test-cases/as-274-21-matrix_class.sh-test/Expected/003-stdout.txt" has no output file match

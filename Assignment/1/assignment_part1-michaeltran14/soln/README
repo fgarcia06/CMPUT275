@@ -1,0 +1,36 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Assignment: Trivial Navigation System Part I
+
+Included Files:
+	server.cpp
+	dijkstra.cpp
+	dijkstra.h
+	digraph.cpp
+	digraph.h
+	wdigraph.h
+	edmonton-roads-2.0.1.txt
+	README
+	Makefile
+
+Running Instructions: 
+	In the directory containing included files highlighted above, use the command "g++ -o <name_of_choice> server.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>" to run the executable. 
+
+Notes and Assumptions: 
+	It is assumed for the queries, that if ID is taken, it is unique. Furthermore, for the edges using the ID's to define them, the ID's are to be initialized earlier in the file, in a vertex description line. Portions of the Dijkstra algorithm has been taken from Lecture 14 code on the course repository.
+
+	These are the following queries that can be used when the executable file has been executed when the graph is being created:
+
+		- a line of form V, ID, Lat, Lon (describing a vertex)
+			- 'V' is the single character 'V', ID is an integer that is the vertex identifer (a label to it), Lat and Lon are floating point numbers related to the geographic coordinates of this vertex. 
+
+		- a line of form E, start, end, name (describing an edge/street)
+			- 'E' is the single character 'E', star and end are teh Ids of the two vertieces connected by the edge, and the name is a nonempty string giving the name of this street.
+
+		- all requests will be made by providing a latitude and longitude (in 100,00-ths of degrees) of the start and end points in ASCII, separated by single spaces. It should be 		started with the character 'R'.
+			- R latitude1 longitude1 latitude2 longitude2
+
+		- when the server prints the number of waypoints, after each print, the user must acknowledge the receipt of data by responsding wiht the character 'A'.

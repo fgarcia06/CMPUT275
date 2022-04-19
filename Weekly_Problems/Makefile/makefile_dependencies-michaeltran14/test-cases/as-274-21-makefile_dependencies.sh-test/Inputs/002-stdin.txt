@@ -1,0 +1,201 @@
+100 100
+1 hedhbfchabec: adeggfebaege
+1 hdbfaahgbadc: edbbbdfcahca
+1 aeeagbafcfbb: ddbagcghcfhg
+1 eahbehbbfcgh: dgdfcdaagcce
+1 dhegegchcgbf: ehaefhbaehca
+1 behdacfffadh: chebghbdfgfd
+1 aeheefdgbfdb: ebcceeffbffa
+1 gfegbgfgfadb: acfhfggdbaff
+1 faeadachccfh: fddahgfcfbbb
+1 fgbhcfeageeg: beecdgdgcfef
+1 geagbhabcgaa: adgedfdfeefc
+1 ebdgghadfhec: acabcdbdcfab
+1 fcdbeedhahdc: ehaefhbaehca
+1 chacadfffaee: edbbbdfcahca
+1 bgfagggadhfh: acabcdbdcfab
+1 aaagebeefbfd: gfahdfhfcbhd
+1 bhcbcfcdehde: hbhbacadbeab
+1 defbhabbbggb: acabcdbdcfab
+1 hbhbacadbeab: ebcceeffbffa
+1 ceghfhfgbgdd: beecdgdgcfef
+1 gfahdfhfcbhd: ggbgacdbhbde
+1 fdccaabccged: ehaefhbaehca
+1 hhcbdgceebaf: ghdfhhbfbagf
+1 fcfdaffddfda: ggbgacdbhbde
+1 bghebdheecag: ghdfhhbfbagf
+1 hgfcggcdbcfh: hefddfagdfda
+1 hcchdghfecdh: ceghfhfgbgdd
+1 fddachcecgff: ddbdfefgcgcd
+1 ebcceeffbffa: gfahdfhfcbhd
+1 fddhbcgedefa: gdacdfhcacdd
+1 hdadeddhefge: geagbhabcgaa
+1 echffaccagfb: hdadeddhefge
+1 dcegcbhgfbhh: caagfehhbche
+1 afgdgfcbcegc: fdccaabccged
+1 ddbachdahacd: dgdfcdaagcce
+1 cahcbhahddae: gfegbgfgfadb
+1 fefdaaefgafa: dhegegchcgbf
+1 hbgcdaefabcg: adgedfdfeefc
+1 hhfcfgaaedgd: begffcgabceg
+1 cedafccfhggc: gfahdfhfcbhd
+1 afhdcgbgdghh: ddbdfefgcgcd
+1 geffdehcccgd: fagdeabfabdh
+1 eceadfdfegce: ggbgacdbhbde
+1 dhdcbedbbgac: gfcbhagaehee
+1 adddbchehfgg: acabcdbdcfab
+1 hahhhcgdgeab: hbhbacadbeab
+1 gdfcfbeedgea: gfahdfhfcbhd
+1 fddahgfcfbbb: ceghfhfgbgdd
+1 dcahbeceadeh: ggbgacdbhbde
+1 adagcfgaehfh: fddahgfcfbbb
+1 bdgahgbgedba: gfcbhagaehee
+1 fgdchafgfabe: echffaccagfb
+1 cgbhcbcbehfg: gfahdfhfcbhd
+1 hbegdgahbach: aaagebeefbfd
+1 faecfgfdadfe: aahgdhgcfhhe
+1 fefbdgebgaec: abdcgcabbdhd
+1 fagdeabfabdh: geagbhabcgaa
+1 agcbdafcdbea: caagfehhbche
+1 adgedfdfeefc: acabcdbdcfab
+1 ccbedbfebheb: eahbehbbfcgh
+1 dgaefgcaadad: fcfdaffddfda
+1 bfbedbdbbcbe: acfhfggdbaff
+1 ccegfdccaacf: gfcbhagaehee
+1 ddchhgcfdcbd: fgedcfdcbdgg
+1 fecfehagbgeb: fefbdgebgaec
+1 gdacdfhcacdd: gdfcfbeedgea
+1 efbgdbcdehag: bghhdbecahgb
+1 abdcgcabbdhd: bghhdbecahgb
+1 aaecgabgaffc: acfhfggdbaff
+1 ddbdfefgcgcd: begffcgabceg
+1 dhbhahddbchb: ddbdfefgcgcd
+1 beecdgdgcfef: ggbgacdbhbde
+1 gfcbhagaehee: begffcgabceg
+1 hedcdhfhgcae: behdacfffadh
+1 begffcgabceg: eceadfdfegce
+1 hfafabbefdcg: bgfagggadhfh
+1 caagfehhbche: bghebdheecag
+1 dgdfcdaagcce: dfbddbhhaaac
+1 ggbgacdbhbde: dgdfcdaagcce
+1 ggafddhhghdg: ceghfhfgbgdd
+1 edbbbdfcahca: beecdgdgcfef
+1 fcbedacccada: aahgdhgcfhhe
+1 cfebdcahaabh: geffdehcccgd
+1 fgedcfdcbdgg: gfcbhagaehee
+1 hefddfagdfda: aeheefdgbfdb
+1 acfhfggdbaff: acabcdbdcfab
+1 efggfhabfhge: cgbhcbcbehfg
+1 bghhdbecahgb: adgedfdfeefc
+1 dbafhccfdbaf: gdfcfbeedgea
+1 ccfbfghdgghg: hbhbacadbeab
+1 ghdfhhbfbagf: ggbgacdbhbde
+1 acabcdbdcfab: dgdfcdaagcce
+1 agdgfcefbehe: dgdfcdaagcce
+1 adeggfebaege: gfcbhagaehee
+1 ehaefhbaehca: cgbhcbcbehfg
+1 dehccfggeagg: acabcdbdcfab
+1 aahgdhgcfhhe: dgdfcdaagcce
+1 ddbagcghcfhg: dgdfcdaagcce
+1 hbcbbfhgcbaf: hcchdghfecdh
+1 chebghbdfgfd: cedafccfhggc
+make aahgdhgcfhhe
+make bfbedbdbbcbe
+make ccegfdccaacf
+make ebcceeffbffa
+make ebdgghadfhec
+make faecfgfdadfe
+make bgfagggadhfh
+make fgdchafgfabe
+make acfhfggdbaff
+make bghhdbecahgb
+make eahbehbbfcgh
+make fefdaaefgafa
+make adddbchehfgg
+make caagfehhbche
+make dcahbeceadeh
+make gfegbgfgfadb
+make fcfdaffddfda
+make aeeagbafcfbb
+make ddbdfefgcgcd
+make hcchdghfecdh
+make hbcbbfhgcbaf
+make beecdgdgcfef
+make hgfcggcdbcfh
+make hdbfaahgbadc
+make ggbgacdbhbde
+make ggafddhhghdg
+make efbgdbcdehag
+make gfegbgfgfadb
+make hbcbbfhgcbaf
+make fgdchafgfabe
+make hedcdhfhgcae
+make fcfdaffddfda
+make dhdcbedbbgac
+make bhcbcfcdehde
+make ghdfhhbfbagf
+make aeheefdgbfdb
+make ccegfdccaacf
+make fgedcfdcbdgg
+make eceadfdfegce
+make fcfdaffddfda
+make fddhbcgedefa
+make chebghbdfgfd
+make afhdcgbgdghh
+make aaagebeefbfd
+make bhcbcfcdehde
+make ceghfhfgbgdd
+make hedhbfchabec
+make cfebdcahaabh
+make fagdeabfabdh
+make ceghfhfgbgdd
+make eceadfdfegce
+make fcdbeedhahdc
+make hbgcdaefabcg
+make dbafhccfdbaf
+make adeggfebaege
+make ebcceeffbffa
+make adgedfdfeefc
+make fecfehagbgeb
+make efggfhabfhge
+make ccfbfghdgghg
+make ddchhgcfdcbd
+make echffaccagfb
+make hbgcdaefabcg
+make eceadfdfegce
+make beecdgdgcfef
+make dgaefgcaadad
+make hfafabbefdcg
+make fecfehagbgeb
+make ehaefhbaehca
+make geagbhabcgaa
+make adgedfdfeefc
+make edbbbdfcahca
+make agdgfcefbehe
+make bdgahgbgedba
+make hbgcdaefabcg
+make bghebdheecag
+make aeheefdgbfdb
+make edbbbdfcahca
+make fecfehagbgeb
+make hcchdghfecdh
+make hgfcggcdbcfh
+make agcbdafcdbea
+make abdcgcabbdhd
+make fagdeabfabdh
+make ccbedbfebheb
+make dehccfggeagg
+make abdcgcabbdhd
+make hbhbacadbeab
+make aeeagbafcfbb
+make fefdaaefgafa
+make hcchdghfecdh
+make gdfcfbeedgea
+make faeadachccfh
+make bfbedbdbbcbe
+make echffaccagfb
+make adgedfdfeefc
+make ebdgghadfhec
+make dhbhahddbchb
+make eahbehbbfcgh
+make hedcdhfhgcae

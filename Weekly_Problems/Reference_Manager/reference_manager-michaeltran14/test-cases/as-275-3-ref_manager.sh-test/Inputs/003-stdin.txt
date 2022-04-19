@@ -1,0 +1,12 @@
+c 0 10 university
+c 60 2 of
+c 34 7 alberta
+c 60 2 in
+q 0
+q 60
+q 34
+q 80
+s 60 34
+g
+c 2 2 of
+e

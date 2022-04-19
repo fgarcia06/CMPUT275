@@ -1,0 +1,8 @@
+bash_history.cpp: In function ‘void file_print(std::map<std::__cxx11::basic_string<char>, std::set<std::__cxx11::basic_string<char> > >&)’:
+bash_history.cpp:145:11: error: type ‘class std::map<std::__cxx11::basic_string<char>, std::set<std::__cxx11::basic_string<char> > >’ argument given to ‘delete’, expected pointer
+  145 |  delete[] files;
+      |           ^~~~~
+chmod: cannot access 'bash_history': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Weekly_Problems/Bash/bash_history-michaeltran14/soln/.build/build.sh: line 8: ./bash_history: No such file or directory
+
+Expected file "test-cases/as-274-21-bash_history.sh-test/Expected/000-stdout.txt" has no output file match

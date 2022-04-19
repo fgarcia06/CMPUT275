@@ -1,0 +1,4 @@
+Timeout expired.
+
+Expected file "test-cases/as-274-21-multiply.sh-test/Expected/020-stdout.txt" has no output file match
+Expected file "test-cases/as-274-21-multiply.sh-test/Expected/020-stderr.txt" has no output file match

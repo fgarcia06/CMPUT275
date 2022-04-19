@@ -1,0 +1,4 @@
+Timeout expired.
+
+Expected file "test-cases/as-274-21-constructing_palindromes.sh-test/Expected/025-stderr.txt" has no output file match
+Expected file "test-cases/as-274-21-constructing_palindromes.sh-test/Expected/025-stdout.txt" has no output file match

@@ -1,0 +1,22 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 4: Rivers
+
+Included Files:
+	rivers.cpp
+	README
+
+Running Instructions:
+
+	In the directory containing the files rivers.cpp, use the command "g++ -o <name_of_choice> rivers.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>". 
+
+Notes and Assumptions: 
+	The first line of input will be of the form "n q", where n is the number of rivers and T being the number of queries (following the constraints below), the second line of input is 'n' spaced integers that satisy; 0 <= a_j <= j - 1, indicating that river j connects river a_j. The next q lines will have two spaced separated integers u and v where 0 <= u,v <= n, describing the two rivers. 
+
+	The output will produce a single integer k where rivers u and v connect (one for each query).
+
+	- n must have a range of 1 <= n <= 100,000.
+	- T must have a range 1 <= q <= 1,000.

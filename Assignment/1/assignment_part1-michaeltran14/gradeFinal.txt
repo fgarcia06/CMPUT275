@@ -1,0 +1,55 @@
+Name:	Michael Tran
+SID:	1662870
+Correctness marking TA:	Jiaqi
+Style marking TA: Aakash Krishna
+
+CMPUT 275 - Intro to Tangible Computing II Winter 2022
+Marking Guidelines for Assignment Part 1
+
+-------------------------------------------------------------------------
+Total:			77/100
+
+-------------------------------------------------------------------------
+Correctness :		60/60
+
+- 60/60: Pass all of the provided and new (i.e., holdout) test inputs. Considera-
+tion will be made for documented reasonable design decisions, if the provided
+test inputs are handled correctly.
+
+- 50/60: Pass all of the provided test and any new (i.e., holdout) test inputs.
+
+- 40/60: Pass all of the provided test inputs
+
+- 20/60: Pass any of the provided test inputs
+
+- Your submission will receive 10 marks penalty if your code does not has required time complexity (if apply).
+-------------------------------------------------------------------------
+Style and Design :   27/30
+
+- 30/30: Meets all style and design requirements discussed in the Code Submission
+and Style Guidelines (on eClass)
+
+- 20/30: Meets most (but not all) style and design requirements
+
+- 10/30: Meets some (but not all) style and design requirements Code Submission
+and Style Guidelines (on eClass)
+
+-------------------------------------------------------------------------
+README :		5/5
+
+- 5/5: Correctly contains all of the required information, and in the right format,
+as described in the Code Submission and Style Guidelines, Chapter 2 (on eClass).
+
+- 0 to 4/5: Deductions for missing name, CCID, student number, course name,
+etc. NOTE: CCID is now required and marked.
+
+-------------------------------------------------------------------------
+Submission :		5/5
+
+- 5/5: Submission validator outputs VALIDATION SUCCEEDED. Otherwise, 0/5.
+
+-------------------------------------------------------------------------
+Late Penalty:		-20	(Between > 0 and 24 hours late.)
+
+------------------Feedback below-------------------------
+-3: missing some function headers in code

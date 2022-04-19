@@ -1,0 +1,27 @@
+5 8 3
+
+1 2 3 4 5
+
+2 1
+2 3
+3 2
+3 4
+4 1
+4 2
+5 3
+5 4
+
+5
+
+1
+2
+3
+
+# FORMAT
+# n m q - number of nodes, edges, queries
+# list of all n node labels (integers)
+# m lines, each giving an edge (u,v)
+# finally, one line that contains the fixed
+# start vertex s, followed by q query lines
+# each containing t to find a path that 
+# starts from s and ends at t

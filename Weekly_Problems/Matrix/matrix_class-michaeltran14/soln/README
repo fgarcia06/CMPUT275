@@ -1,0 +1,66 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 5: Matrix Class
+
+Included Files:
+	matrix.cpp
+	matrix.h
+	we5_test.cpp
+	README
+	Makefile
+
+Running Instructions:
+
+	In the directory containing the files we5_test.cpp, matrix.cpp, and matrix.h, use the command "g++ -o <name_of_choice> we5_test.cpp matrix.cpp matrix.h" to compile and link the .cpp files. Afterwards, run "./<name_of_choice>".  
+
+Notes and Assumptions: 
+	These are the following queries that can be used when the executable file has been executed:
+		
+		- C mat name rows columns (-c) -i init
+			Create a new matrix by calling the parametrized constructor. (Matrix mat_name = Matrix(rows, columns, init))
+				If the -c flag is added before -i, a const matrix will be created as a const matrix.
+
+		- C mat name rows columns (-c) -a init1 init2 · · · init_rows×columns
+			Create a new matrix by calling the parametrized constructor. (Matrix mat_name = Matrix(rows, columns, arr_ptr))
+				arr_ptr contains the initial values, if -c flag is added before -a, const matrix is made.
+
+	The following 3 queries are made with the assumption that the matrices are of correct sizes:
+
+		- A my_matrix1 my_matrix2 result
+			Add two matrices using operator+ and store the result in a new matrix called result.
+
+		- S my_matrix1 my_matrix2 result
+			Subtract two matrices using operator- and store the result in a new matrix called result.
+
+		- M my_matrix1 my_matrix2 result 
+			Multiply two matrices using operator* and store the result in a new matrix called result.
+
+		- N my_matrix result
+			Negate the matrix using unary minus operator, stores in new matrix called matrix.
+
+		- T my_matrix result
+			Transpose the matrix, store the result in new matrix called matrix.
+
+		- B my_matrix row column
+			This command will return a specific element of a const or non-const matrix.
+
+		- BA my_matrix row column value
+			This command will assign a value to a specific element of a non-const matrix.
+
+		- P my_matrix
+			Prints my_matrix.
+
+		- R my_matrix val1 val2 ... val_rows×columns
+			Read rows×columns floating point numbers from stdin using the extraction operator and loads them into the non-const matrix
+
+		- D my_matrix new_matrix
+			This command will create a new matrix and initialize it using the given matrix. The copy constructor will be called as a result of running this command.
+
+		- Q
+			Terminates the execution of the driver.
+
+
+

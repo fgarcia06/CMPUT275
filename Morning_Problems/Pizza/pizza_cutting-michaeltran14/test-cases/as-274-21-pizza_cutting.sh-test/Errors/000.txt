@@ -1,0 +1,1 @@
+/bin/sh: 1: /mnt/c/Users/Micha/onedrive: Permission denied

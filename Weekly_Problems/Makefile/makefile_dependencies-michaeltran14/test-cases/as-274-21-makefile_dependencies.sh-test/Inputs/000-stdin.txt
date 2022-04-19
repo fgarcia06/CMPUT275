@@ -1,0 +1,12 @@
+5 6
+3 project: main.o matrix.o fft.o
+3 debug: main.o matrix.o fft.o
+3 main.o: main.cpp matrix.h fft.h
+2 matrix.o: matrix.h matrix.cpp
+2 fft.o: fft.h fft.cpp
+make matrix.o
+make matrix.o
+make debug
+make fft.o
+make project
+make main.o

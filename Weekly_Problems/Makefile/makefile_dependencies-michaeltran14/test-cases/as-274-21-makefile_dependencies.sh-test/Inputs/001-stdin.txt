@@ -1,0 +1,13 @@
+8 4
+3 a: b c g
+3 b: e f g
+3 c: b e d
+1 d: f
+1 g: e
+3 sss: xxx yyy zzz
+2 xxx: yyy zzz
+1 yyy: zzz
+make g
+make a
+make sss
+make d

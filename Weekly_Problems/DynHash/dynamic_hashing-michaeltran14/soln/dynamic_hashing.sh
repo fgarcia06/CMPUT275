@@ -1,0 +1,1 @@
+make -s && ./we4_solution

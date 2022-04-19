@@ -1,0 +1,33 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Assignment Part II: Client/Server Application
+
+Included Files:
+	in ./server
+		server.cpp
+		dijkstra.cpp
+		dijkstra.h
+		digraph.cpp
+		digraph.h
+		wdigraph.h
+		edmonton-roads-2.0.1.txt
+		Makefile
+
+	in ./soln
+		README
+		Makefile
+
+Running Instructions: 
+	while in the ./soln directory, run "make run" in the terminal. This run will compile and link the proper files for the server, in the directoy ./server. Afterwards, gnome-terminal will be ran and the server will be executed, then the client. The plotter will open, below are the instructions for the plotter:
+
+		- press W/S/A/D to move the patch displayed in the window up/down/left/right respectively.
+		- press R to remove all routes and selected points on the map.
+		- press Q and E to respectively zoom in and out on the map, keeping the mouse cursor at its previous position.
+		- click left mouse button to select current point as the start or end point of a trip.
+		- drag left moues button to scroll around on the map.
+
+Notes and Assumptions: 
+	It is assumed that the client sends the route request in two lines without adding the 'R' character. The server does not send the number of waypoints and does not expect an acknowledgement after sending the coordinates of each waypoint. Server only send the 'E' character after writing all waypoints for a route request to outpipe. When the plotter window is closed, the client writes a single character, 'Q', to the pipe. Which then the server will clean up and quit, if this is read from the pipe.

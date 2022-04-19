@@ -1,0 +1,5 @@
+free(): invalid size
+/home/michaeltran14/CMPUT_275/C++/Weekly_Problems/Reference_Manager/reference_manager-michaeltran14/soln/.build/build.sh: line 9:  4315 Aborted                 ./$NAME
+
+Expected file "test-cases/as-275-3-ref_manager.sh-test/Expected/000-stderr.txt" has no output file match
+Expected file "test-cases/as-275-3-ref_manager.sh-test/Expected/000-stdout.txt" has no output file match

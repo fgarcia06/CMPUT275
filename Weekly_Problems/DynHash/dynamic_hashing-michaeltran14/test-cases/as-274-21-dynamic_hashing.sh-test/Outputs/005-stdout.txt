@@ -1,0 +1,6 @@
+number of elements: 2
+number of buckets: 11
+found
+found
+number of elements: 1
+number of buckets: 10

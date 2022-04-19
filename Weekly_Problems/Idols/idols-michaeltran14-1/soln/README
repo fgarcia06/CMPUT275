@@ -1,0 +1,20 @@
+Name: Michael Tran
+ID #: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 2: Idols
+
+Included Files:
+	idols.cpp
+	README
+
+Running Instructions:
+
+	In the directory containing the files idols.cpp, use the command "g++ -o <name_of_choice> idols.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>". 
+
+Notes and Assumptions: 
+	There will only be a single line input for the length of array, the second line of input is 'n' spaced integers.
+
+	- n must have a range of 1 <= n <= 100,000.
+	- it is assumed that each integer is no larger than 1,000,000. 

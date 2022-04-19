@@ -1,0 +1,4 @@
+g
+b d c a
+yyy xxx sss
+make: `d' is up to date.

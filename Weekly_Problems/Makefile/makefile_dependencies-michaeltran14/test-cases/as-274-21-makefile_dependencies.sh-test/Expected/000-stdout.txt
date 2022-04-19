@@ -1,0 +1,6 @@
+matrix.o
+make: `matrix.o' is up to date.
+main.o fft.o debug
+make: `fft.o' is up to date.
+project
+make: `main.o' is up to date.

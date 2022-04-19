@@ -1,0 +1,11 @@
+constructing_palindromes.cpp: In function ‘int main()’:
+constructing_palindromes.cpp:16:6: error: expected primary-expression before ‘for’
+   16 |  for(for i = 0; i < n; i++) {
+      |      ^~~
+constructing_palindromes.cpp:16:17: error: ‘i’ was not declared in this scope
+   16 |  for(for i = 0; i < n; i++) {
+      |                 ^
+chmod: cannot access 'constructing_palindromes': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Morning_Problems/Palindromes/constructing_palindromes-michaeltran14/soln/.build/build.sh: line 8: ./constructing_palindromes: No such file or directory
+
+Expected file "test-cases/as-274-21-constructing_palindromes.sh-test/Expected/000-stdout.txt" has no output file match

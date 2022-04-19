@@ -1,0 +1,33 @@
+Name: Michael Tran
+SID: 1662870
+CCID: mtran7
+CMPUT 275 Winter 2022
+
+Weekly Exercise 6: Graph Concepts
+
+Included Files:
+	graph_concepts.cpp
+	digraph.cpp
+	digraph.h
+	edmonton-roads-2.0.1.txt
+	README
+	Makefile
+
+Running Instructions:
+	In the directory containing the files graph_concepts and the textfile, use the command "g++ -o <name_of_choice> graph_concepts.cpp" to compile and link the .cpp file. Afterwards, run "./<name_of_choice>" to run the executable. To pipeline a textfile of proper specifications of queries, do "./<name_of_choice < "name-of-textfile.txt""  
+
+Notes and Assumptions: 
+	It is assumed for the queries, that if ID is taken, it is unique. Furthermore, for the edges using the ID's to define them, the ID's are to be initialized earlier in the file, in a vertex description line.
+
+	These are the following queries that can be used when the executable file has been executed when the graph is being created:
+
+		- a line of form V, ID, Lat, Lon (describing a vertex)
+			- 'V' is the single character 'V', ID is an integer that is the vertex identifer (a label to it), Lat and Lon are floating point numbers related to the geographic coordinates of this vertex. 
+
+		- a line of form E, start, end, name (describing an edge/street)
+			- 'E' is the single character 'E', star and end are teh Ids of the two vertieces connected by the edge, and the name is a nonempty string giving the name of this street.
+
+
+
+
+

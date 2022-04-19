@@ -1,0 +1,8 @@
+/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x24): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+chmod: cannot access 'twin_primes': No such file or directory
+/home/michaeltran14/CMPUT_275/C++/Weekly_Problems/Twin_Primes/twin_primes-michaeltran14/soln/.build/build.sh: line 8: ./twin_primes: No such file or directory
+
+Expected file "test-cases/as-274-21-twin_primes.sh-test/Expected/000-stderr.txt" has no output file match
+Expected file "test-cases/as-274-21-twin_primes.sh-test/Expected/000-stdout.txt" has no output file match

@@ -1,0 +1,23 @@
+number of elements: 10
+number of buckets: 10
+number of elements: 11
+number of buckets: 20
+found
+found
+found
+number of elements: 10
+number of buckets: 20
+number of elements: 6
+number of buckets: 20
+not found
+found
+found
+found
+found
+not found
+number of elements: 5
+number of buckets: 20
+number of elements: 4
+number of buckets: 10
+number of elements: 1
+number of buckets: 10

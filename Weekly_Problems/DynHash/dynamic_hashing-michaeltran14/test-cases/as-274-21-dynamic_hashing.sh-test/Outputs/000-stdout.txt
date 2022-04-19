@@ -1,0 +1,12 @@
+number of buckets: 3
+number of buckets: 6
+number of elements: 4
+not found
+found
+not found
+found
+number of elements: 2
+number of buckets: 6
+found
+number of elements: 1
+number of buckets: 6

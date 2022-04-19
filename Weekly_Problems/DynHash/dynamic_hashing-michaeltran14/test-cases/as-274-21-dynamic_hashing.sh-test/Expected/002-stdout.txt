@@ -1,0 +1,28 @@
+not found
+number of buckets: 16
+not found
+number of elements: 9
+number of elements: 9
+not found
+number of elements: 8
+number of buckets: 16
+not found
+number of buckets: 16
+number of buckets: 16
+number of buckets: 16
+number of elements: 8
+number of elements: 7
+not found
+number of buckets: 16
+number of buckets: 16
+number of elements: 9
+not found
+number of elements: 9
+not found
+number of buckets: 16
+not found
+number of elements: 6
+number of elements: 8
+number of buckets: 16
+not found
+number of elements: 9
